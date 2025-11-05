@@ -11,6 +11,11 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 💬 Ask me about ...
 - 📫 How to reach me: <20170012149@my.xu.edu.ph>
 
+## 💡 Fun Fact About Me
+- 🏀 I love playing basketball.
+- 🐈 I love cats.
+- 🎶 I love jamming to songs.
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
 
